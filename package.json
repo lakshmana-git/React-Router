@@ -1,0 +1,22 @@
+{
+  "name": "react-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshmana-git/React-Router.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshmana-git/React-Router/issues"
+  },
+  "homepage": "https://github.com/lakshmana-git/React-Router#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
